@@ -1,4 +1,7 @@
-package com.cibertec.ejercicio2;
+package ejercicio2;
+import com.cibertec.ejercicio2.Libro;
+import com.cibertec.ejercicio2.LibroRepository;
+import com.cibertec.ejercicio2.LibroService;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.InjectMocks;
